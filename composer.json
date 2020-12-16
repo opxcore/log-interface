@@ -1,0 +1,28 @@
+{
+    "name": "opxcore/log-interface",
+    "description": "The OpxCore logger interface.",
+    "license": "MIT",
+    "homepage": "https://opxcore.com",
+    "type": "library",
+    "support": {
+        "source": "https://github.com/opxcore/log-interface",
+        "issues": "https://github.com/opxcore/log-interface/issues"
+    },
+    "authors": [
+        {
+            "name": "Lozovoy Vyacheslav",
+            "email": "opxcore@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4",
+        "psr/log": "^1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "OpxCore\\Log\\Interfaces\\": "src"
+        }
+    },
+    "prefer-stable": true,
+    "minimum-stability": "dev"
+}
