@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "OpxCore\\Log\\Interfaces\\": "src"
+            "OpxCore\\Log\\": "src"
         }
     },
     "prefer-stable": true,
