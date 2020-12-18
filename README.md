@@ -37,3 +37,5 @@ AbstractLogger defines several common methods to be used in loggers:
   log message.
 
 - `getTimestamp(): string` returns current timestamp in ISO8601 format.
+
+- Log levels shorthands: `emergency()`, `alert()`, `critical()`, `error()`, `warning()`, `notice()`, `info()`, `debug()`
