@@ -1,7 +1,7 @@
 # Log interface
 
-[![Build Status](https://www.travis-ci.com/opxcore/log-interface.svg?branch=master)](https://www.travis-ci.com/opxcore/log-interface)
-[![Coverage Status](https://coveralls.io/repos/github/opxcore/log-interface/badge.svg?branch=master)](https://coveralls.io/github/opxcore/log-interface?branch=master)
+[![Build Status](https://www.travis-ci.com/opxcore/log-interface.svg?branch=main)](https://www.travis-ci.com/opxcore/log-interface)
+[![Coverage Status](https://coveralls.io/repos/github/opxcore/log-interface/badge.svg?branch=main)](https://coveralls.io/github/opxcore/log-interface?branch=main)
 [![Latest Stable Version](https://poser.pugx.org/opxcore/log-interface/v/stable)](https://packagist.org/packages/opxcore/log-interface)
 [![Total Downloads](https://poser.pugx.org/opxcore/log-interface/downloads)](https://packagist.org/packages/opxcore/log-interface)
 [![License](https://poser.pugx.org/opxcore/log-interface/license)](https://packagist.org/packages/opxcore/log-interface)
