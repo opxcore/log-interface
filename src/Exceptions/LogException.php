@@ -10,10 +10,9 @@
 
 namespace OpxCore\Log\Exceptions;
 
-use OpxCore\Log\Interfaces\LoggerException;
 use Psr\Log\InvalidArgumentException;
 
-class LogException extends InvalidArgumentException implements LoggerException
+class LogException extends InvalidArgumentException
 {
 
 }
