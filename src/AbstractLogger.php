@@ -30,7 +30,7 @@ abstract class AbstractLogger extends \Psr\Log\AbstractLogger
         $logMessage = $this->interpolateMessage($message, $context);
         $timestamp = $this->getTimestamp();
 
-        return "[{$timestamp}] {$level} > " . $logMessage;
+        return "[{$timestamp}] {$level} > " . $logMessage . "\r\n";
     }
 
     /**
